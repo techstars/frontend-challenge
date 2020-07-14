@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
+import { validateForm, submitForm } from './helperFunctions'
+import logo from './assets/techstars-logo-white.svg';
 import './App.css';
 
 function App() {
