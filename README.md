@@ -18,6 +18,10 @@ For this challenge, we want you to create a sign-up form for an event Techstars 
 - Bonus points for interactive UI that gives user feedback based on form inputs and submission responses 
 - Bonus points for tested code. To help with this, both `jest` and `@testing-library/react` are included
 
+### Creating Your Submission
+
+Please fork this repo, then begin working on your application. Make sure to create clear commits and track your work as you go. When you are ready to submit your work, please create a new pull request targeting this repo. 
+
 ### Tools Available
 
 The challenge has been created using [Create React App](https://github.com/facebook/create-react-app). Out of the box, we have enabled `.css` styling. If you'd like to use `.scss` or JSS, please consult the CRA docs. You are more than welcome to take this approach, and we'd love to see how you implement it. 
