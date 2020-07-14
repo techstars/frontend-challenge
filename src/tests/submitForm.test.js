@@ -1,4 +1,4 @@
-import { submitForm } from '../../helperFunctions'
+import { submitForm } from '../helperFunctions'
 
 describe('submitForm()', () => {
   it('is a defined export', () => {

@@ -1,4 +1,4 @@
-import { validateForm } from '../../helperFunctions'
+import { validateForm } from '../helperFunctions'
 
 describe('validateForm()', () => {
   it('is a defined export', () => {

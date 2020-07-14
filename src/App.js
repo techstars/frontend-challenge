@@ -1,5 +1,5 @@
 import React from 'react';
-import { validateForm, submitForm } from './helperFunctions'
+import { validateForm, submitForm } from './helperFunctions';
 import logo from './assets/techstars-logo-white.svg';
 import './App.css';
 
